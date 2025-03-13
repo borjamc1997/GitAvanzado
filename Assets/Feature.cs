@@ -4,14 +4,5 @@ using UnityEngine;
 
 public class Feature : MonoBehaviour
 {
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+    private int i = 0;
 }
