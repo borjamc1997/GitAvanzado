@@ -5,4 +5,5 @@ using UnityEngine;
 public class Feature : MonoBehaviour
 {
     private int i = 0;
+    //Cambio de script
 }
